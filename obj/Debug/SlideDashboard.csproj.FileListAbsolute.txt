@@ -1,0 +1,30 @@
+E:\Projects\XAML\SlideDashboard\bin\Debug\SlideDashboard.exe.config
+E:\Projects\XAML\SlideDashboard\bin\Debug\SlideDashboard.exe
+E:\Projects\XAML\SlideDashboard\bin\Debug\SlideDashboard.pdb
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard.csprojAssemblyReference.cache
+E:\Projects\XAML\SlideDashboard\obj\Debug\MainWindow.g.cs
+E:\Projects\XAML\SlideDashboard\obj\Debug\App.g.cs
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard_MarkupCompile.cache
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard_MarkupCompile.lref
+E:\Projects\XAML\SlideDashboard\obj\Debug\MainWindow.baml
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard.g.resources
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard.Properties.Resources.resources
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard.csproj.GenerateResource.cache
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard.csproj.CoreCompileInputs.cache
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard.exe
+E:\Projects\XAML\SlideDashboard\obj\Debug\SlideDashboard.pdb
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\bin\Debug\SlideDashboard.exe.config
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\bin\Debug\SlideDashboard.exe
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\bin\Debug\SlideDashboard.pdb
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\App.g.cs
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard_MarkupCompile.cache
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard_MarkupCompile.lref
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\MainWindow.baml
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard.g.resources
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard.exe
+C:\Users\Asus\OneDrive\Documents\Semester 5\PBKK\Dashboard 2\SlideDashboard\obj\Debug\SlideDashboard.pdb
